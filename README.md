@@ -6,12 +6,14 @@
 - 🎵 I love programming and singing (especially R&B & Hip-Hop).
 
 ## 🛠️ Tech Stack
+<div align="center">
 
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lhm6199&layout=compact&theme=radical)](https://github.com/lhm6199)
+</div>
 
 ## 📊 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=lhm6199&show_icons=true&theme=light)
