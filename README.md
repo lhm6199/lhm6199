@@ -16,8 +16,14 @@
 </div>
 
 ## 📊 GitHub Stats
+<div align="center">
+
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=lhm6199&show_icons=true&theme=light)
+</div>
 
 ## 🔗 Find Me Online!
+<div align="center">
+
 [![Velog Badge](https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white)](https://velog.io/@your-velog-username)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://linkedin.com/in/hyunmin-lee-0a7aa623a/)
+<div>
